@@ -2,7 +2,7 @@
 
 <p align="center">This project is a <a href="https://www.instagram.com/" target="_blank" >Instagram</a> feed page app. Where design and concepts for react native styles were used.</p>
 
-![](https://github.com/lucascooelho/clone-twitch.tv/blob/master/src/images/screenshots/twitch.tv.png)
+![](https://github.com/lucascooelho/clone-instagram/blob/main/src/assets/screenshot/clone-instagram.gif)
 
 <p align="center">All programming for this code has only study purposes and new knowledge.</p>
 
